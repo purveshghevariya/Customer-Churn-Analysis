@@ -1,11 +1,11 @@
 📊 Customer Churn Prediction - EDA
 
-This project performs **Exploratory Data Analysis (EDA) on a telecom customer dataset to understand the key factors behind customer churn.
+This project performs Exploratory Data Analysis (EDA) on a telecom customer dataset to understand the key factors behind customer churn.
 
 📁 Dataset Information
-* Dataset**: Customer Churn.csv
-* Source**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
-* Target Variable**: `Churn` (Yes/No)
+* Dataset: Customer Churn.csv
+* Source: [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
+* Target Variable: `Churn` (Yes/No)
 
 💡 Key Insights
 * Overall churn rate is \~26.5%
